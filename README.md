@@ -10,6 +10,7 @@ To deploy this project run
 
 ```bash
   git clone https://github.com/StoppedwummSites/DM_Bot_Discord.git
+  cd DM_Bot_Discord
   python bot.py
 ```
 
